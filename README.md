@@ -5,7 +5,8 @@
 
 ## 📄 Overview
 
-The **Sydney Opera House Booking System** is a full-stack web application that allows users to browse shows, book tickets, reserve dining/private events, manage bookings, and explore tours/experiences.
+
+This is a **full‑stack booking prototype**. It allows users to browse shows, simulate booking tickets, reserve dining/private events, manage bookings, and explore tours/experiences.
 It is built with **HTML5, CSS, JavaScript, PHP, and MySQL** 
 
 The system features:
@@ -139,11 +140,13 @@ Your project includes complete:
 ✔ reservations
 ✔ payments
 
-> **Recommended Screenshot:**
+## 🔌 Setup
 
-* ERD diagram section in your report
-
----
+```bash
+git clone <repo>
+Import SQL file into MySQL
+Run using XAMPP / MAMP / WAMP
+```
 
 ## 📌 Conclusion
 
@@ -158,3 +161,5 @@ The **Sydney Opera House Booking System** is a fully functional booking web appl
 * UX/UI design principles
 
 It is stable, modular, extendable, and ready for real implementation or future enhancements like payment APIs and admin dashboards.
+
+
