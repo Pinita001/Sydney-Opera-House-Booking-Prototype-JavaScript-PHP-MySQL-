@@ -1,7 +1,14 @@
 # 📘 Sydney Opera House Booking System
 
 🔰 Badges
-<p> <img src="https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square"> <img src="https://img.shields.io/badge/Frontend-HTML%2FCSS%2FJS-blue?style=flat-square"> <img src="https://img.shields.io/badge/Backend-PHP-orange?style=flat-square"> <img src="https://img.shields.io/badge/Database-MySQL-red?style=flat-square"> <img src="https://img.shields.io/badge/Security-Validated-green?style=flat-square"> <img src="https://img.shields.io/badge/Responsive-Yes-9cf?style=flat-square"> <img src="https://img.shields.io/badge/License-Academic-lightgrey?style=flat-square"> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-3.19-skyblue" />
+  <img src="https://img.shields.io/badge/Dart-Language-blue" />
+  <img src="https://img.shields.io/badge/OpenAI-ChatGPT-purple" />
+  <img src="https://img.shields.io/badge/iOS-Ready-lightgrey" />
+  <img src="https://img.shields.io/badge/Android-Ready-green" />
+  <img src="https://img.shields.io/badge/Status-In_Progress-yellow" />
+</p>
 
 ## 📄 Overview
 
