@@ -32,7 +32,8 @@ The system features:
 
 > **Recommended Screenshot:**
 
-* Figure 12/13 (Registration)
+<img width="452" height="234" alt="image" src="https://github.com/user-attachments/assets/cb046f6c-c7f4-404a-9a61-2e1f7d770a0b" />
+
 * Figure 14/15 (Login)
 
 ---
