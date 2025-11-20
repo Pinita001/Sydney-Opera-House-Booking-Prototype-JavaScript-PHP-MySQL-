@@ -143,9 +143,16 @@ Your project includes complete:
 ## 🔌 Setup
 
 ```bash
-git clone <repo>
-Import SQL file into MySQL
-Run using XAMPP / MAMP / WAMP
+git clone <repo-url>
+
+# Import SQL database
+# Start Apache + MySQL using XAMPP / MAMP / WAMP
+
+Place project folder inside:
+htdocs/   (XAMPP)
+www/      (MAMP)
+
+Visit: http://localhost/<project-name>
 ```
 
 ## 📌 Conclusion
@@ -161,5 +168,6 @@ The **Sydney Opera House Booking System** is a fully functional booking web appl
 * UX/UI design principles
 
 It is stable, modular, extendable, and ready for real implementation or future enhancements like payment APIs and admin dashboards.
+Future improvements may include payment API integration, admin dashboards, and API endpoints.
 
 
